@@ -15,6 +15,18 @@ This is a simple Tic Tac Toe game implemented in C++. The game allows a player t
 - The game continues until there is a winner or a tie.
 
 ## Screenshots
-
+- Playing game
+  
+![1](https://github.com/DilshanaRanawake/Tic-Tac-Toe-Game/blob/main/Screenshots/ttt1.png)
+![2](https://github.com/DilshanaRanawake/Tic-Tac-Toe-Game/blob/main/Screenshots/ttt2.png)
+- WIN
+  
+![3](https://github.com/DilshanaRanawake/Tic-Tac-Toe-Game/blob/main/Screenshots/ttt3.png)
+- TIE
+  
+![4](https://github.com/DilshanaRanawake/Tic-Tac-Toe-Game/blob/main/Screenshots/ttt4.png)
+- LOSE
+  
+![5](https://github.com/DilshanaRanawake/Tic-Tac-Toe-Game/blob/main/Screenshots/ttt5.png)
 
 Credits: This project was inspired by a YouTube tutorial. 
